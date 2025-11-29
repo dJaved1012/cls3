@@ -13,3 +13,4 @@ Notes and usage details for cls3.
 - add a note about the defaults
 - link the usage section
 - fix a small wording issue
+- add a note about the defaults
