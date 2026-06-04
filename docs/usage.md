@@ -32,3 +32,4 @@ Notes and usage details for cls3.
 - clarify the setup steps
 - link the usage section
 - clarify the setup steps
+- link the usage section
